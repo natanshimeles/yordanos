@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  th{
+    background-color:Gray;
+  }
+
+  .special-color{
+    background-color:Gray;
+  }
+  
+
+
+  .medium-table{
+    padding: 40px 40px 40px 40px ;
+  }
